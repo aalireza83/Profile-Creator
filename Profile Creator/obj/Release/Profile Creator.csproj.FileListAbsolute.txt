@@ -1,0 +1,20 @@
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\bin\Release\Profile Creator.exe.config
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\bin\Release\Profile Creator.exe
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\bin\Release\Profile Creator.pdb
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\obj\Release\Profile_Creator.ProfileCreator.resources
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\obj\Release\Profile_Creator.Properties.Resources.resources
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\obj\Release\Profile Creator.csproj.GenerateResource.cache
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\obj\Release\Profile Creator.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\obj\Release\Profile Creator.exe
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\obj\Release\Profile Creator.pdb
+C:\Users\Alireza\source\repos\Profile Creator\Profile Creator\obj\Release\Profile Creator.csproj.AssemblyReference.cache
+D:\programming\c#\projects\Profile Creator\Profile Creator\bin\Release\Profile Creator.exe.config
+D:\programming\c#\projects\Profile Creator\Profile Creator\bin\Release\Profile Creator.exe
+D:\programming\c#\projects\Profile Creator\Profile Creator\bin\Release\Profile Creator.pdb
+D:\programming\c#\projects\Profile Creator\Profile Creator\obj\Release\Profile Creator.csproj.AssemblyReference.cache
+D:\programming\c#\projects\Profile Creator\Profile Creator\obj\Release\Profile_Creator.ProfileCreator.resources
+D:\programming\c#\projects\Profile Creator\Profile Creator\obj\Release\Profile_Creator.Properties.Resources.resources
+D:\programming\c#\projects\Profile Creator\Profile Creator\obj\Release\Profile Creator.csproj.GenerateResource.cache
+D:\programming\c#\projects\Profile Creator\Profile Creator\obj\Release\Profile Creator.csproj.CoreCompileInputs.cache
+D:\programming\c#\projects\Profile Creator\Profile Creator\obj\Release\Profile Creator.exe
+D:\programming\c#\projects\Profile Creator\Profile Creator\obj\Release\Profile Creator.pdb
